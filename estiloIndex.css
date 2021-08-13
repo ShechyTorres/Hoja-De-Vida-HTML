@@ -1,0 +1,52 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Columns-Datos-Foto {
+    columns: 2;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 200px;
+}
+
+.Perfil-Profesional {
+    text-align: justify;
+}
+
+.Columns-EstudioSecundario {
+    columns: 2;
+}
+
+.Columns-EstudioTecnico {
+    columns: 2;
+}
+
+.Columns-EstudioTecnologo {
+    columns: 2;
+}
+
+.Columns-EstudioTecnologoSistemas {
+    columns: 2;
+}
+
+.Columns-Idiomas {
+    columns: 2;
+}
+
+.Columns-ExperienciaLaboral {
+    columns: 2;
+}
+
+footer {
+    text-align: center;
+}
