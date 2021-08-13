@@ -1,2 +1,3 @@
 # Hoja de vida en HTML
-[Página Principal](URL "index.html")
+* [Ir al index](#index.html)
+<a name="index.html"></a>
