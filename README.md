@@ -1,2 +1,2 @@
 # Hoja de vida en HTML
-[index.html] (URL "Página Principal")
+[Página Principal](URL "www.index.html")
